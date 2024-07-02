@@ -12,4 +12,5 @@
 #federatedai/serving-admin:2.1.5-release
 #bitnami/zookeeper:3.7.0 
 #mysql:8.0.28
-pytorch/manylinux-cuda102:latest
+#pytorch/manylinux-cuda102:latest
+nvidia/cuda:10.2-cudnn7-devel-centos7
