@@ -13,4 +13,5 @@
 #bitnami/zookeeper:3.7.0 
 #mysql:8.0.28
 #pytorch/manylinux-cuda102:latest
-kmaehashi/cuda11-centos7:11.0-cudnn8-devel-centos7
+#kmaehashi/cuda11-centos7:11.0-cudnn8-devel-centos7
+nvidia/cuda:1.9.0-cuda10.2-cudnn7-runtime-python3
