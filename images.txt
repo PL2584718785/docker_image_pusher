@@ -15,4 +15,4 @@
 #pytorch/manylinux-cuda102:latest
 #kmaehashi/cuda11-centos7:11.0-cudnn8-devel-centos7
 #rapidsai/rapidsai:cuda10.2-base-centos7-py3.8
-internlm/internlm:torch1.13.1-cuda11.7.1-flashatten1.0.5-centos7
+pytorch/manylinux-cuda113:latest
