@@ -3,12 +3,13 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-federatedai/eggroll:1.8.0-release
-federatedai/fateboard:1.8.0-release
-federatedai/python:1.8.0-release
-federatedai/client:1.8.0-release
-federatedai/serving-server:2.1.5-release
-federatedai/serving-proxy:2.1.5-release
-federatedai/serving-admin:2.1.5-release
-bitnami/zookeeper:3.7.0 
-mysql:8.0.28
+#federatedai/eggroll:1.8.0-release
+#federatedai/fateboard:1.8.0-release
+#federatedai/python:1.8.0-release
+#federatedai/client:1.8.0-release
+#federatedai/serving-server:2.1.5-release
+#federatedai/serving-proxy:2.1.5-release
+#federatedai/serving-admin:2.1.5-release
+#bitnami/zookeeper:3.7.0 
+#mysql:8.0.28
+pytorch/manylinux-cuda102:latest
