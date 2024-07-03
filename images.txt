@@ -15,4 +15,5 @@
 #pytorch/manylinux-cuda102:latest
 #kmaehashi/cuda11-centos7:11.0-cudnn8-devel-centos7
 #rapidsai/rapidsai:cuda10.2-base-centos7-py3.8
-pytorch/manylinux-cuda113:latest
+#pytorch/manylinux-cuda113:latest
+gpuci/miniconda-cuda:11.3-devel-centos7
