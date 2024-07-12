@@ -16,4 +16,5 @@
 #kmaehashi/cuda11-centos7:11.0-cudnn8-devel-centos7
 #rapidsai/rapidsai:cuda10.2-base-centos7-py3.8
 #pytorch/manylinux-cuda113:latest
-gpuci/miniconda-cuda:11.3-devel-centos7
+#gpuci/miniconda-cuda:11.3-devel-centos7
+nvidia/cuda:11.4.3-devel-centos7
