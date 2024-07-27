@@ -18,4 +18,5 @@
 #pytorch/manylinux-cuda113:latest
 #gpuci/miniconda-cuda:11.3-devel-centos7
 #nvidia/cuda:11.4.3-devel-centos7
-eosphorosai/dbgpt:latest
+mysql:8.0.38
+
