@@ -18,5 +18,6 @@
 #pytorch/manylinux-cuda113:latest
 #gpuci/miniconda-cuda:11.3-devel-centos7
 #nvidia/cuda:11.4.3-devel-centos7
-mysql:latest
+#mysql:latest
+dustynv/langchain:samples-r36.2.0
 
