@@ -20,4 +20,5 @@
 #nvidia/cuda:11.4.3-devel-centos7
 #mysql:latest
 #dustynv/langchain:samples-r36.2.0
-zaralee/toch2.1.2-cu118-python3.10:1.0
+#zaralee/toch2.1.2-cu118-python3.10:1.0
+ultralytics/ultralytics
