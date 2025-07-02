@@ -22,4 +22,5 @@
 #dustynv/langchain:samples-r36.2.0
 #zaralee/toch2.1.2-cu118-python3.10:1.0
 #ultralytics/ultralytics
-ascendai/pytorch:ubuntu-python3.8-cann8.0.rc1-pytorch2.1.0
+#ascendai/pytorch:ubuntu-python3.8-cann8.0.rc1-pytorch2.1.0
+safeaiunist/cuda11.2:miniconda-gpu
