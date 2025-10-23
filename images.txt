@@ -24,4 +24,5 @@
 #ultralytics/ultralytics
 #ascendai/pytorch:ubuntu-python3.8-cann8.0.rc1-pytorch2.1.0
 #safeaiunist/cuda11.2:miniconda-gpu
-nvidia/cuda:11.2.2-cudnn8-devel-ubuntu20.04
+#nvidia/cuda:11.2.2-cudnn8-devel-ubuntu20.04
+rhsaeedy/paddle-dbx:latest
